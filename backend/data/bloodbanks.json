@@ -1,0 +1,160 @@
+[
+  {
+    "name": "Red Cross Blood Bank Mumbai",
+    "location": "Mumbai, Maharashtra",
+    "locationCoords": { "type": "Point", "coordinates": [72.8777, 19.076] },
+    "contact": "022-12345678",
+    "bloodInventory": {
+      "A+": 10,
+      "A-": 5,
+      "B+": 12,
+      "B-": 3,
+      "AB+": 4,
+      "AB-": 2,
+      "O+": 15,
+      "O-": 5
+    }
+  },
+  {
+    "name": "Indian Red Cross Society Blood Bank",
+    "location": "AWMH, 8th Floor, 1877, Dr. Anandrao Nair Marg, Red Cross Street, Mumbai Central (East), Mumbai - 400011",
+    "locationCoords": { "type": "Point", "coordinates": [72.8345, 18.9336] },
+    "contact": "022-2309-6979",
+    "bloodInventory": { "A+": 10, "A-": 5, "B+": 12, "B-": 3, "AB+": 4, "AB-": 2, "O+": 15, "O-": 5 }
+  },
+  {
+    "name": "Lok Nayak Hospital Blood Bank",
+    "location": "Jawaharlal Nehru Marg, Maulana Azad Medical College Campus, Delhi Gate, New Delhi - 110002",
+    "locationCoords": { "type": "Point", "coordinates": [77.2380, 28.6389] },
+    "contact": "011-23236000",
+    "bloodInventory": { "A+": 8, "A-": 4, "B+": 10, "B-": 2, "AB+": 3, "AB-": 1, "O+": 12, "O-": 4 }
+  },
+  {
+    "name": "G.B. Pant Hospital Blood Bank",
+    "location": "Atlanta Point, Near Cellular Jail, P.O. Aberdeen Bazaar, Port Blair - 744104, Andaman & Nicobar Islands",
+    "locationCoords": { "type": "Point", "coordinates": [92.7474, 11.6751] },
+    "contact": "+91-3192-243653",
+    "bloodInventory": { "A+": 6, "A-": 3, "B+": 8, "B-": 2, "AB+": 3, "AB-": 1, "O+": 9, "O-": 3 }
+  },
+  {
+    "name": "Bhopal Memorial Hospital Blood Bank",
+    "location": "Near Karod Chourha, Raisen Bypass Road, Bhopal - 462038, Madhya Pradesh",
+    "locationCoords": { "type": "Point", "coordinates": [77.4126, 23.2599] },
+    "contact": "0755-2742212",
+    "bloodInventory": { "A+": 7, "A-": 4, "B+": 9, "B-": 2, "AB+": 4, "AB-": 1, "O+": 10, "O-": 3 }
+  },
+  {
+    "name": "Sree Chitra Tirunal Institute Blood Bank",
+    "location": "Chalakkuzhi, Thiruvananthapuram - 695011, Kerala",
+    "locationCoords": { "type": "Point", "coordinates": [76.9264, 8.5206] },
+    "contact": "0471-2524477",
+    "bloodInventory": { "A+": 6, "A-": 3, "B+": 8, "B-": 2, "AB+": 3, "AB-": 1, "O+": 9, "O-": 3 }
+  },
+  {
+    "name": "Indian Red Cross Society Blood Bank",
+    "location": "AWMH, 8th Floor, 1877, Dr. Anandrao Nair Marg, Red Cross Street, Mumbai Central (East), Mumbai - 400011",
+    "locationCoords": { "type": "Point", "coordinates": [72.8345, 18.9336] },
+    "contact": "022-2309-6979",
+    "bloodInventory": { "A+": 10, "A-": 5, "B+": 12, "B-": 3, "AB+": 4, "AB-": 2, "O+": 15, "O-": 5 }
+  },
+  {
+    "name": "Lok Nayak Hospital Blood Bank",
+    "location": "Jawaharlal Nehru Marg, Maulana Azad Medical College Campus, Delhi Gate, New Delhi - 110002",
+    "locationCoords": { "type": "Point", "coordinates": [77.2380, 28.6389] },
+    "contact": "011-23236000",
+    "bloodInventory": { "A+": 8, "A-": 4, "B+": 10, "B-": 2, "AB+": 3, "AB-": 1, "O+": 12, "O-": 4 }
+  },
+  {
+    "name": "G.B. Pant Hospital Blood Bank",
+    "location": "Atlanta Point, Near Cellular Jail, P.O. Aberdeen Bazaar, Port Blair - 744104, Andaman & Nicobar Islands",
+    "locationCoords": { "type": "Point", "coordinates": [92.7474, 11.6751] },
+    "contact": "+91-3192-243653",
+    "bloodInventory": { "A+": 6, "A-": 3, "B+": 8, "B-": 2, "AB+": 3, "AB-": 1, "O+": 9, "O-": 3 }
+  },
+  {
+    "name": "Bhopal Memorial Hospital Blood Bank",
+    "location": "Near Karod Chourha, Raisen Bypass Road, Bhopal - 462038, Madhya Pradesh",
+    "locationCoords": { "type": "Point", "coordinates": [77.4126, 23.2599] },
+    "contact": "0755-2742212",
+    "bloodInventory": { "A+": 7, "A-": 4, "B+": 9, "B-": 2, "AB+": 4, "AB-": 1, "O+": 10, "O-": 3 }
+  },
+  {
+    "name": "Sree Chitra Tirunal Institute Blood Bank",
+    "location": "Chalakkuzhi, Thiruvananthapuram - 695011, Kerala",
+    "locationCoords": { "type": "Point", "coordinates": [76.9264, 8.5206] },
+    "contact": "0471-2524477",
+    "bloodInventory": { "A+": 6, "A-": 3, "B+": 8, "B-": 2, "AB+": 3, "AB-": 1, "O+": 9, "O-": 3 }
+  },
+    {
+    "name": "Keshav Madhav Blood Bank",
+    "location": "Bareilly, Uttar Pradesh, India",
+    "locationCoords": { "type": "Point", "coordinates": [79.430153, 28.36718] },
+    "contact": "+91-579-230-4187",
+    "bloodInventory": { "A+": 6, "A-": 3, "B+": 8, "B-": 2, "AB+": 4, "AB-": 1, "O+": 9, "O-": 3 }
+  },
+  {
+    "name": "Sant Blood Bank",
+    "location": "Kanpur Road, near Maharani LaxmiBai Medical College, Jhansi, Uttar Pradesh, India",
+    "locationCoords": { "type": "Point", "coordinates": [78.615517, 25.458599] },
+    "contact": "+91-755-412-9930",
+    "bloodInventory": { "A+": 5, "A-": 2, "B+": 7, "B-": 1, "AB+": 3, "AB-": 1, "O+": 8, "O-": 2 }
+  },
+  {
+    "name": "Rajshree Medical Research Institute Blood Bank",
+    "location": "21 Km, Near Toll Plaza, Rampur Road, Bareilly, Uttar Pradesh, India",
+    "locationCoords": { "type": "Point", "coordinates": [79.430153, 28.36718] },
+    "contact": "+91-581-300-7712",
+    "bloodInventory": { "A+": 7, "A-": 3, "B+": 9, "B-": 2, "AB+": 4, "AB-": 1, "O+": 10, "O-": 3 }
+  },
+  {
+    "name": "Sarvodaya Hospital Samarpan Blood Bank",
+    "location": "Office Building, 2nd floor, Sarvodaya Hospital, L.B.S. Marg, Ghatkopar (W), Mumbai - 400086, Maharashtra, India",
+    "locationCoords": { "type": "Point", "coordinates": [72.9075, 19.1556] },
+    "contact": "+91-22-2564-8891",
+    "bloodInventory": { "A+": 8, "A-": 4, "B+": 10, "B-": 2, "AB+": 5, "AB-": 2, "O+": 12, "O-": 4 }
+  },
+  {
+    "name": "Indian Red Cross Society Blood Bank",
+    "location": "J. L. Thakore Red Cross Bhavan, 18-Gujarat Brahmkshatriya Society, Behind Suvidha Market, Paldi, Ahmedabad - 380007, Gujarat, India",
+    "locationCoords": { "type": "Point", "coordinates": [72.5714, 23.0225] },
+    "contact": "+91-79-2655-4307",
+    "bloodInventory": { "A+": 9, "A-": 5, "B+": 11, "B-": 3, "AB+": 6, "AB-": 2, "O+": 13, "O-": 5 }
+  },
+  {
+    "name": "Lions Blood Bank",
+    "location": "Patparganj, Delhi, India",
+    "locationCoords": { "type": "Point", "coordinates": [77.29, 28.61] },
+    "contact": "+91-11-4512-6678",
+    "bloodInventory": { "A+": 7, "A-": 3, "B+": 9, "B-": 2, "AB+": 4, "AB-": 1, "O+": 10, "O-": 3 }
+  },
+  {
+    "name": "Rotary Delhi Capitol Charitable Blood Centre",
+    "location": "Shanti Chamber, Pusa Road, Delhi, India",
+    "locationCoords": { "type": "Point", "coordinates": [77.19, 28.64] },
+    "contact": "+91-11-4289-2210",
+    "bloodInventory": { "A+": 8, "A-": 4, "B+": 10, "B-": 2, "AB+": 5, "AB-": 2, "O+": 11, "O-": 4 }
+  },
+  {
+    "name": "Noida Charitable Blood Bank",
+    "location": "Noida, Uttar Pradesh, India",
+    "locationCoords": { "type": "Point", "coordinates": [77.0369, 28.5355] },
+    "contact": "+91-120-498-3304",
+    "bloodInventory": { "A+": 6, "A-": 3, "B+": 8, "B-": 2, "AB+": 4, "AB-": 1, "O+": 9, "O-": 3 }
+  },
+  {
+    "name": "Pitampura Blood Bank",
+    "location": "Pitampura, Delhi, India",
+    "locationCoords": { "type": "Point", "coordinates": [77.112, 28.687] },
+    "contact": "+91-11-2787-9099",
+    "bloodInventory": { "A+": 7, "A-": 3, "B+": 9, "B-": 2, "AB+": 4, "AB-": 1, "O+": 10, "O-": 3 }
+  },
+  {
+    "name": "Columbia Asia Blood Bank",
+    "location": "Columbia Asia Hospital, Sarita Vihar, Delhi, India",
+    "locationCoords": { "type": "Point", "coordinates": [77.29, 28.55] },
+    "contact": "+91-11-2955-4422",
+    "bloodInventory": { "A+": 8, "A-": 4, "B+": 10, "B-": 2, "AB+": 5, "AB-": 2, "O+": 11, "O-": 4 }
+  }
+ 
+]
+

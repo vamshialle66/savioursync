@@ -1,0 +1,36 @@
+.
+├── data
+│   ├── bloodbanks.json
+│   └── hospitals.json
+├── logs
+│   └── activity.log
+├── middleware
+│   ├── adminMiddleware.js
+│   ├── authMiddleware.js
+│   ├── errorHandler.js
+│   └── verifyToken.js
+├── models
+│   ├── Contact.js
+│   ├── DonorApplication.js
+│   ├── Donor.js
+│   └── User.js
+├── package.json
+├── package-lock.json
+├── routes
+│   ├── adminRoutes.js
+│   ├── authRoutes.js
+│   ├── combinedSearchRoutes.js
+│   ├── contactRoutes.js
+│   ├── donorRoutes.js
+│   └── userRoutes.js
+├── seed_users.js
+├── server.js
+├── structure.txt
+├── test.js
+├── uploads
+└── utils
+    ├── activityLogger.js
+    ├── api.js
+    └── sendEmail.js
+
+8 directories, 26 files

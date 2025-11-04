@@ -1,0 +1,110 @@
+.
+├── backend
+│   ├── data
+│   │   ├── bloodbanks.json
+│   │   └── hospitals.json
+│   ├── logs
+│   │   └── activity.log
+│   ├── middleware
+│   │   ├── adminMiddleware.js
+│   │   ├── authMiddleware.js
+│   │   ├── errorHandler.js
+│   │   └── verifyToken.js
+│   ├── models
+│   │   ├── Contact.js
+│   │   ├── DonorApplication.js
+│   │   ├── Donor.js
+│   │   └── User.js
+│   ├── package.json
+│   ├── package-lock.json
+│   ├── routes
+│   │   ├── adminRoutes.js
+│   │   ├── authRoutes.js
+│   │   ├── BloodbankRoutes.js
+│   │   ├── combinedSearchRoutes.js
+│   │   ├── contactRoutes.js
+│   │   ├── donorRoutes.js
+│   │   └── userRoutes.js
+│   ├── seedAdmin.js
+│   ├── seed_users.js
+│   ├── server.js
+│   ├── structure.txt
+│   ├── test.js
+│   ├── uploads
+│   └── utils
+│       ├── activityLogger.js
+│       ├── api.js
+│       └── sendEmail.js
+├── frontend
+│   ├── package.json
+│   ├── package-lock.json
+│   ├── postcss.config.js
+│   ├── public
+│   │   ├── favicon.ico
+│   │   ├── index.html
+│   │   ├── logo.png
+│   │   ├── manifest.json
+│   │   ├── mylogo.png
+│   │   └── robots.txt
+│   ├── src
+│   │   ├── App.css
+│   │   ├── App.js
+│   │   ├── App.test.js
+│   │   ├── assets
+│   │   │   ├── logo.png
+│   │   │   └── nervous-bg.png
+│   │   ├── components
+│   │   │   ├── AdminHeaderLink.jsx
+│   │   │   ├── CardMotion.js
+│   │   │   ├── cards
+│   │   │   │   ├── BloodBankCard.jsx
+│   │   │   │   ├── DonorCard.jsx
+│   │   │   │   ├── HospitalCard.jsx
+│   │   │   │   └── ResultCard.jsx
+│   │   │   ├── DonorDetailsModal.jsx
+│   │   │   ├── DonorFormModal.jsx
+│   │   │   ├── Footer.js
+│   │   │   ├── GoogleMapsProvider.jsx
+│   │   │   ├── Header.js
+│   │   │   ├── Input.jsx
+│   │   │   ├── LocationInput.jsx
+│   │   │   ├── LogoutButton.jsx
+│   │   │   ├── MapPickerModal.jsx
+│   │   │   ├── pagination.jsx
+│   │   │   ├── ProtectedRoute.jsx
+│   │   │   ├── search
+│   │   │   │   ├── CustomLocationInput.jsx
+│   │   │   │   └── SearchBar.jsx
+│   │   │   └── Select.jsx
+│   │   ├── index.css
+│   │   ├── index.js
+│   │   ├── logo.svg
+│   │   ├── pages
+│   │   │   ├── admin
+│   │   │   │   ├── AdminDashBoard.js
+│   │   │   │   ├── AdminDonorApplications.jsx
+│   │   │   │   ├── ManageBloodbanksPage.jsx
+│   │   │   │   ├── ManageDonorsPage.jsx
+│   │   │   │   ├── ManageHospitalsPage.jsx
+│   │   │   │   └── ManageUsersPage.jsx
+│   │   │   ├── public
+│   │   │   │   ├── AboutPage.js
+│   │   │   │   ├── ApplyDonor.jsx
+│   │   │   │   ├── ContactPage.js
+│   │   │   │   ├── DonorProfile.jsx
+│   │   │   │   ├── ForgotPasswordPage.jsx
+│   │   │   │   ├── HomePage.js
+│   │   │   │   ├── LoginPage.jsx
+│   │   │   │   ├── RegisterPage.js
+│   │   │   │   ├── SearchPage.jsx
+│   │   │   │   └── SignupPage.js
+│   │   │   └── user
+│   │   │       ├── ProfilePage.jsx
+│   │   │       └── UpdateProfilePage.jsx
+│   │   ├── reportWebVitals.js
+│   │   └── setupTests.js
+│   └── tailwind.config.js
+├── rest.rest
+└── structure.txt
+
+20 directories, 88 files

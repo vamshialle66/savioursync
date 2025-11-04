@@ -1,0 +1,30 @@
+POST http://localhost:5000/api/donors/apply-donor
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZGU2Nzc3MTMyMjkzNDZmOTE0YjQzZiIsImVtYWlsIjoicGFydGhAYXBwLmNvbSIsImlhdCI6MTc2MDAzNTgwOSwiZXhwIjoxNzYwMTIyMjA5fQ.GMcaYS0C-s2tMkP-zG04FvrDWlKvcFMn-nBtxTNtNz8
+Content-Type: multipart/form-data
+
+--boundary
+Content-Disposition: form-data; name="firstName"
+
+John
+--boundary
+Content-Disposition: form-data; name="lastName"
+
+Doe
+--boundary
+Content-Disposition: form-data; name="dob"
+
+1995-05-15
+--boundary
+Content-Disposition: form-data; name="address"
+
+Mumbai, India
+--boundary
+Content-Disposition: form-data; name="coords"
+
+[-73.935242, 40.730610]
+--boundary
+Content-Disposition: form-data; name="idProof"; filename="id.pdf"
+Content-Type: application/pdf
+
+< ./id.pdf
+--boundary--

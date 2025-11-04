@@ -1,0 +1,5937 @@
+2025-10-01T18:51:43.503Z - GET /api/search?lat=18.9696254&lng=72.81930799999999&type=blood&value=A-
+2025-10-01T18:56:34.571Z - GET /api/search?lat=18.9581934&lng=72.8320729&type=blood&value=A%2B
+2025-10-01T19:03:31.032Z - GET /api/search?lat=18.9581934&lng=72.8320729&type=blood&value=A-
+2025-10-01T19:03:40.850Z - GET /api/search?lat=18.9581934&lng=72.8320729&type=blood&value=A%2B
+2025-10-01T19:03:55.828Z - GET /api/search?lat=18.9581934&lng=72.8320729&type=blood&value=AB%2B
+2025-10-01T19:04:25.410Z - GET /api/search?lat=18.9581934&lng=72.8320729&type=blood&value=AB%2B
+2025-10-01T19:06:47.147Z - GET /api/search?lat=18.9581934&lng=72.8320729&type=blood&value=AB%2B
+2025-10-01T19:09:47.080Z - GET /api/search?lat=18.9696254&lng=72.81930799999999&type=blood&value=A-
+2025-10-01T19:09:50.507Z - GET /api/search?lat=18.9696254&lng=72.81930799999999&type=blood&value=A%2B
+2025-10-01T21:53:54.997Z - GET /api/search?lat=18.9696254&lng=72.81930799999999&type=blood&value=AB%2B
+2025-10-01T21:58:27.571Z - GET /api/search?lat=19.0760&lng=72.8777&type=blood&value=A+
+2025-10-01T21:58:57.584Z - GET /api/search?lat=18.9696254&lng=72.81930799999999&type=blood&value=AB%2B
+2025-10-01T22:10:06.058Z - GET /api/search?lat=18.9696254&lng=72.81930799999999&type=blood&value=AB%2B
+2025-10-01T22:10:28.220Z - GET /api/search?lat=18.9696254&lng=72.81930799999999&type=blood&value=AB%2B
+2025-10-01T22:10:28.259Z - GET /api/donors?type=blood&value=AB%2B
+2025-10-01T22:14:52.983Z - GET /api/search?lat=18.9696254&lng=72.81930799999999&type=blood&value=AB%2B
+2025-10-01T22:20:07.880Z - GET /api/search?lat=28.7040592&lng=77.10249019999999&type=blood&value=B-
+2025-10-01T22:20:15.955Z - GET /api/search?lat=28.7040592&lng=77.10249019999999&type=blood&value=O-
+2025-10-01T22:48:18.481Z - GET /api/donors
+2025-10-01T22:48:18.515Z - GET /api/donors
+2025-10-01T22:49:38.779Z - GET /api/donors
+2025-10-01T22:49:39.118Z - GET /api/donors
+2025-10-01T22:51:28.437Z - GET /api/donors?page=1&limit=10
+2025-10-01T22:52:21.702Z - GET /api/donors?page=1&limit=10
+2025-10-01T22:52:21.975Z - GET /api/donors?page=1&limit=10
+2025-10-01T22:54:24.283Z - GET /api/donors?page=1&limit=10
+2025-10-01T22:54:24.619Z - GET /api/donors?page=1&limit=10
+2025-10-01T22:56:23.458Z - GET /api/donors?page=1&limit=10
+2025-10-01T22:56:23.517Z - GET /api/donors?page=1&limit=10
+2025-10-01T22:56:35.970Z - GET /api/donors?page=1&limit=10
+2025-10-01T22:56:35.987Z - GET /api/donors?page=1&limit=10
+2025-10-01T23:00:23.113Z - GET /api/donors?page=1&limit=10&search=
+2025-10-01T23:06:43.811Z - GET /api/donors?page=1&limit=10&search=
+2025-10-01T23:06:43.842Z - GET /api/donors?page=1&limit=10&search=
+2025-10-01T23:08:16.787Z - GET /api/donors?page=1&limit=10&search=
+2025-10-01T23:08:16.800Z - GET /api/donors?page=1&limit=10&search=
+2025-10-01T23:17:05.879Z - GET /api/donors?page=1&limit=10&search=
+2025-10-01T23:23:17.767Z - GET /api/admin/manage-donors?page=1&limit=10&search=&bloodGroup=&verified=
+2025-10-01T23:25:53.829Z - GET /api/donors?page=1&limit=10&search=
+2025-10-01T23:26:27.989Z - GET /api/search?lat=18.9581934&lng=72.8320729&type=blood&value=A-
+2025-10-01T23:26:31.255Z - GET /api/search?lat=18.9581934&lng=72.8320729&type=blood&value=AB%2B
+2025-10-01T23:36:30.321Z - GET /api/search?lat=18.9581934&lng=72.8320729&type=blood&value=AB%2B
+2025-10-01T23:37:13.819Z - GET /api/search?lat=18.9581934&lng=72.8320729&type=blood&value=A%2B
+2025-10-01T23:48:42.261Z - GET /api/search?lat=18.9581934&lng=72.8320729&type=blood&value=B%2B
+2025-10-02T09:31:52.081Z - GET /api/search?lat=18.9581934&lng=72.8320729&type=blood&value=A%2B
+2025-10-02T11:42:22.006Z - POST /api/auth/signup
+2025-10-02T11:48:45.304Z - POST /api/auth/signup
+2025-10-02T11:48:52.343Z - POST /api/auth/signup
+2025-10-02T11:49:30.656Z - POST /api/auth/signup
+2025-10-02T11:49:35.386Z - POST /api/auth/signup
+2025-10-02T11:51:03.263Z - POST /api/auth/login
+2025-10-02T11:51:15.439Z - POST /api/auth/login
+2025-10-02T11:51:16.437Z - POST /api/auth/login
+2025-10-02T11:51:16.612Z - POST /api/auth/login
+2025-10-02T11:51:16.774Z - POST /api/auth/login
+2025-10-02T11:51:16.931Z - POST /api/auth/login
+2025-10-02T11:51:17.089Z - POST /api/auth/login
+2025-10-02T11:51:17.246Z - POST /api/auth/login
+2025-10-02T11:51:17.402Z - POST /api/auth/login
+2025-10-02T11:51:17.549Z - POST /api/auth/login
+2025-10-02T11:51:17.757Z - POST /api/auth/login
+2025-10-02T11:51:17.931Z - POST /api/auth/login
+2025-10-02T11:51:18.090Z - POST /api/auth/login
+2025-10-02T11:51:24.121Z - POST /api/auth/login
+2025-10-02T11:51:24.619Z - POST /api/auth/login
+2025-10-02T11:51:25.946Z - POST /api/auth/login
+2025-10-02T11:52:14.588Z - POST /api/auth/signup
+2025-10-02T11:52:23.149Z - POST /api/auth/signup
+2025-10-02T11:52:23.297Z - undefined undefined
+2025-10-02T11:59:30.166Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T12:00:05.986Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T12:01:31.850Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T12:08:15.689Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T12:12:18.437Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T12:13:23.662Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T12:13:58.313Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T12:14:16.454Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T12:22:22.720Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T12:22:24.572Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T12:22:25.397Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T12:22:26.958Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T12:22:50.086Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T12:22:50.355Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T12:22:50.501Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T12:22:50.673Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T12:23:01.562Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T12:23:02.974Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T12:23:03.241Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T12:23:03.390Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T12:23:03.533Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T12:23:03.667Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T12:23:26.458Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T12:23:26.654Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T12:23:26.800Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T12:23:26.958Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T12:23:27.094Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T12:24:46.892Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T12:24:48.060Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T12:24:48.274Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T12:24:48.423Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T12:24:48.577Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T12:24:48.723Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T12:24:48.864Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T12:24:49.055Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T12:24:49.191Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T12:24:49.321Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T12:24:49.481Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T12:24:49.634Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T12:24:49.801Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T12:24:50.237Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T12:26:45.440Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T17:19:40.100Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T17:22:00.465Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T17:23:05.715Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T17:24:55.630Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T17:25:01.974Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T17:25:41.486Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T17:43:51.409Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T17:43:54.983Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-02T17:43:57.337Z - [object Object] by [object Object] (function next (err) {
+    let layerError = err === 'route'
+      ? null
+      : err
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.slice(1)
+      slashAdded = false
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl
+      req.url = protohost + removed + req.url.slice(protohost.length)
+      removed = ''
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError)
+      return
+    }
+
+    // max sync stack
+    if (++sync > 100) {
+      return setImmediate(next, err)
+    }
+
+    // get pathname of request
+    const path = getPathname(req)
+
+    if (path == null) {
+      return done(layerError)
+    }
+
+    // find next matching layer
+    let layer
+    let match
+    let route
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++]
+      match = matchLayer(layer, path)
+      route = layer.route
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match
+      }
+
+      if (match !== true) {
+        continue
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false
+        continue
+      }
+
+      const method = req.method
+      const hasMethod = route._handlesMethod(method)
+
+      // build up automatic options response
+      if (!hasMethod && method === 'OPTIONS' && methods) {
+        methods.push.apply(methods, route._methods())
+      }
+
+      // don't even bother matching route
+      if (!hasMethod && method !== 'HEAD') {
+        match = false
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError)
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params
+    const layerPath = layer.path
+
+    // this should be done for the layer
+    processParams(self.params, layer, paramcalled, req, res, function (err) {
+      if (err) {
+        next(layerError || err)
+      } else if (route) {
+        layer.handleRequest(req, res, next)
+      } else {
+        trimPrefix(layer, layerError, layerPath, path)
+      }
+
+      sync = 0
+    })
+  })
+2025-10-09T21:50:26.254Z - deleted user by parth@app.com (kiara.shetty986@example.com)
+2025-10-09T21:50:30.925Z - deleted user by parth@app.com (kavya.kapadia298@example.com)
+2025-10-09T23:37:31.039Z - donor application rejected by parth2@app.com (68de677713229346f914b43f)

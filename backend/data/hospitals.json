@@ -1,0 +1,323 @@
+[
+  {
+    "name": "Fortis Hospital Mulund",
+    "location": "Mulund Goregaon Link Rd, Off L.B.S. Marg, Mulund West, Mumbai, Maharashtra 400080",
+    "locationCoords": { "type": "Point", "coordinates": [72.9575, 19.1606] },
+    "contact": "+91-22-2233-4455",
+    "bloodInventory": { "A+": 8, "A-": 3, "B+": 9, "B-": 2, "AB+": 3, "AB-": 1, "O+": 12, "O-": 3 },
+    "organInventory": { "Kidney": 2, "Liver": 1, "Heart": 1, "Lungs": 0, "Pancreas": 0, "Eyes": 4 }
+  },
+  {
+    "name": "AIIMS New Delhi",
+    "location": "Ansari Nagar, New Delhi, Delhi 110029",
+    "locationCoords": { "type": "Point", "coordinates": [77.2315, 28.5672] },
+    "contact": "+91-11-2658-8500",
+    "bloodInventory": { "A+": 10, "A-": 4, "B+": 11, "B-": 3, "AB+": 4, "AB-": 2, "O+": 14, "O-": 4 },
+    "organInventory": { "Kidney": 3, "Liver": 2, "Heart": 1, "Lungs": 1, "Pancreas": 0, "Eyes": 6 }
+  },
+  {
+    "name": "Narayana Health City",
+    "location": "Bommasandra-Jigani Link Rd, Bommasandra Industrial Area, Anekal Taluk, Bengaluru, Karnataka 560099",
+    "locationCoords": { "type": "Point", "coordinates": [77.7066, 12.8389] },
+    "contact": "+91-80-6780-0000",
+    "bloodInventory": { "A+": 9, "A-": 3, "B+": 10, "B-": 2, "AB+": 3, "AB-": 1, "O+": 13, "O-": 4 },
+    "organInventory": { "Kidney": 3, "Liver": 2, "Heart": 1, "Lungs": 0, "Pancreas": 0, "Eyes": 5 }
+  },
+  {
+    "name": "Apollo Hospitals Greams Road",
+    "location": "21 Greams Lane, Off Greams Road, Thousand Lights, Chennai, Tamil Nadu 600006",
+    "locationCoords": { "type": "Point", "coordinates": [80.2501, 13.0632] },
+    "contact": "+91-44-2829-3333",
+    "bloodInventory": { "A+": 7, "A-": 3, "B+": 8, "B-": 2, "AB+": 2, "AB-": 1, "O+": 11, "O-": 3 },
+    "organInventory": { "Kidney": 2, "Liver": 1, "Heart": 1, "Lungs": 0, "Pancreas": 0, "Eyes": 3 }
+  },
+  {
+    "name": "Kolkata Medical Centre (AMRI)",
+    "location": "48, Canal Circular Rd, Kasba, Kolkata, West Bengal 700107",
+    "locationCoords": { "type": "Point", "coordinates": [88.3823, 22.5129] },
+    "contact": "+91-33-6666-6666",
+    "bloodInventory": { "A+": 8, "A-": 3, "B+": 9, "B-": 2, "AB+": 3, "AB-": 1, "O+": 12, "O-": 4 },
+    "organInventory": { "Kidney": 2, "Liver": 1, "Heart": 1, "Lungs": 0, "Pancreas": 0, "Eyes": 3 }
+  },
+  {
+    "name": "Care Hospitals Banjara Hills",
+    "location": "Road No 1, Banjara Hills, Hyderabad, Telangana 500034",
+    "locationCoords": { "type": "Point", "coordinates": [78.4495, 17.4159] },
+    "contact": "+91-40-6666-6666",
+    "bloodInventory": { "A+": 9, "A-": 4, "B+": 10, "B-": 3, "AB+": 4, "AB-": 1, "O+": 13, "O-": 4 },
+    "organInventory": { "Kidney": 3, "Liver": 1, "Heart": 1, "Lungs": 0, "Pancreas": 0, "Eyes": 4 }
+  },
+  {
+    "name": "Jehangir Hospital Pune",
+    "location": "14, Khilarewadi, Near Deccan Gymkhana, Pune, Maharashtra 411004",
+    "locationCoords": { "type": "Point", "coordinates": [73.8567, 18.5196] },
+    "contact": "+91-20-6604-4444",
+    "bloodInventory": { "A+": 6, "A-": 2, "B+": 7, "B-": 2, "AB+": 2, "AB-": 1, "O+": 9, "O-": 2 },
+    "organInventory": { "Kidney": 1, "Liver": 1, "Heart": 0, "Lungs": 0, "Pancreas": 0, "Eyes": 2 }
+  },
+  {
+    "name": "Sterling-Wockhardt Hospital",
+    "location": "3rd Floor, Sterling Centre, Near Shahupuri, Kolhapur Rd, Sangli, Maharashtra 416416",
+    "locationCoords": { "type": "Point", "coordinates": [74.5260, 16.8483] },
+    "contact": "+91-233-243-2100",
+    "bloodInventory": { "A+": 5, "A-": 2, "B+": 6, "B-": 1, "AB+": 1, "AB-": 0, "O+": 8, "O-": 2 },
+    "organInventory": { "Kidney": 1, "Liver": 0, "Heart": 0, "Lungs": 0, "Pancreas": 0, "Eyes": 1 }
+  },
+  {
+    "name": "SAL Hospital Cuttack",
+    "location": "SCB Medical Campus Rd, Circular Rd, Cuttack, Odisha 753001",
+    "locationCoords": { "type": "Point", "coordinates": [85.8572, 20.4625] },
+    "contact": "+91-671-243-4567",
+    "bloodInventory": { "A+": 6, "A-": 2, "B+": 7, "B-": 1, "AB+": 2, "AB-": 1, "O+": 9, "O-": 2 },
+    "organInventory": { "Kidney": 1, "Liver": 0, "Heart": 0, "Lungs": 0, "Pancreas": 0, "Eyes": 2 }
+  },
+  {
+    "name": "Sawai Man Singh Govt. Hospital",
+    "location": "JLN Marg, Jawahar Lal Nehru Marg, Jaipur, Rajasthan 302004",
+    "locationCoords": { "type": "Point", "coordinates": [75.8260, 26.9124] },
+    "contact": "+91-141-222-1234",
+    "bloodInventory": { "A+": 7, "A-": 3, "B+": 8, "B-": 2, "AB+": 2, "AB-": 1, "O+": 10, "O-": 3 },
+    "organInventory": { "Kidney": 2, "Liver": 0, "Heart": 0, "Lungs": 0, "Pancreas": 0, "Eyes": 3 }
+  },
+  {
+    "name": "LPS Institute of Cardiology, Kanpur",
+    "location": "Ghee Bazar, Swaroop Nagar, Kanpur, Uttar Pradesh 208002",
+    "locationCoords": { "type": "Point", "coordinates": [80.3229, 26.4499] },
+    "contact": "+91-512-230-8800",
+    "bloodInventory": { "A+": 5, "A-": 2, "B+": 6, "B-": 1, "AB+": 1, "AB-": 0, "O+": 7, "O-": 1 },
+    "organInventory": { "Kidney": 1, "Liver": 0, "Heart": 0, "Lungs": 0, "Pancreas": 0, "Eyes": 1 }
+  },
+  {
+    "name": "Shalby Hospital Ahmedabad",
+    "location": "Opposite Vastrapur Lake, S.G. Highway Rd, Vastrapur, Ahmedabad, Gujarat 380015",
+    "locationCoords": { "type": "Point", "coordinates": [72.5868, 23.0279] },
+    "contact": "+91-79-4900-4900",
+    "bloodInventory": { "A+": 8, "A-": 3, "B+": 9, "B-": 2, "AB+": 3, "AB-": 1, "O+": 12, "O-": 3 },
+    "organInventory": { "Kidney": 2, "Liver": 1, "Heart": 0, "Lungs": 0, "Pancreas": 0, "Eyes": 3 }
+  },
+  {
+    "name": "PMCH (Patna Medical College & Hospital)",
+    "location": "Ashok Rajpath, Patna, Bihar 800004",
+    "locationCoords": { "type": "Point", "coordinates": [85.1280, 25.6094] },
+    "contact": "+91-612-250-1234",
+    "bloodInventory": { "A+": 6, "A-": 2, "B+": 7, "B-": 1, "AB+": 2, "AB-": 0, "O+": 9, "O-": 2 },
+    "organInventory": { "Kidney": 1, "Liver": 0, "Heart": 0, "Lungs": 0, "Pancreas": 0, "Eyes": 2 }
+  },
+  {
+    "name": "GNRC Hospitals Guwahati",
+    "location": "3rd Mile, G.S. Rd, Dispur, Guwahati, Assam 781006",
+    "locationCoords": { "type": "Point", "coordinates": [91.7450, 26.1419] },
+    "contact": "+91-361-300-6000",
+    "bloodInventory": { "A+": 6, "A-": 2, "B+": 7, "B-": 1, "AB+": 2, "AB-": 0, "O+": 9, "O-": 2 },
+    "organInventory": { "Kidney": 1, "Liver": 0, "Heart": 0, "Lungs": 0, "Pancreas": 0, "Eyes": 2 }
+  },
+  {
+    "name": "Postgraduate Institute of Medical Education & Research (PGIMER) Chandigarh",
+    "location": "Sector 12, Chandigarh, Punjab 160012",
+    "locationCoords": { "type": "Point", "coordinates": [76.7794, 30.7333] },
+    "contact": "+91-172-274-1234",
+    "bloodInventory": { "A+": 9, "A-": 4, "B+": 10, "B-": 3, "AB+": 4, "AB-": 1, "O+": 13, "O-": 4 },
+    "organInventory": { "Kidney": 3, "Liver": 1, "Heart": 1, "Lungs": 0, "Pancreas": 0, "Eyes": 4 }
+  },
+  {
+    "name": "Tata Memorial Hospital Mumbai",
+    "location": "Dr E Borges Rd, Parel, Mumbai, Maharashtra 400012",
+    "locationCoords": { "type": "Point", "coordinates": [72.8258, 19.0176] },
+    "contact": "+91-22-2417-7000",
+    "bloodInventory": { "A+": 7, "A-": 3, "B+": 8, "B-": 2, "AB+": 3, "AB-": 1, "O+": 11, "O-": 3 },
+    "organInventory": { "Kidney": 1, "Liver": 0, "Heart": 0, "Lungs": 0, "Pancreas": 0, "Eyes": 2 }
+  },
+  {
+    "name": "SCTIMST Medical Centre, Thiruvananthapuram",
+    "location": "SHA Hospital Rd, Chalakkuzhi, Thiruvananthapuram, Kerala 695011",
+    "locationCoords": { "type": "Point", "coordinates": [76.9264, 8.5206] },
+    "contact": "+91-471-252-0400",
+    "bloodInventory": { "A+": 6, "A-": 2, "B+": 7, "B-": 1, "AB+": 2, "AB-": 0, "O+": 9, "O-": 2 },
+    "organInventory": { "Kidney": 1, "Liver": 0, "Heart": 0, "Lungs": 0, "Pancreas": 0, "Eyes": 2 }
+  },
+  {
+    "name": "RIMS (Rajendra Institute of Medical Sciences) Ranchi",
+    "location": "Kanke Rd, Bariatu, Ranchi, Jharkhand 834009",
+    "locationCoords": { "type": "Point", "coordinates": [85.3288, 23.3441] },
+    "contact": "+91-651-226-1234",
+    "bloodInventory": { "A+": 5, "A-": 2, "B+": 6, "B-": 1, "AB+": 1, "AB-": 0, "O+": 8, "O-": 2 },
+    "organInventory": { "Kidney": 1, "Liver": 0, "Heart": 0, "Lungs": 0, "Pancreas": 0, "Eyes": 1 }
+  },
+  {
+    "name": "King George's Medical University Hospital, Lucknow",
+    "location": "Sultanpur Rd, Chowk, Lucknow, Uttar Pradesh 226003",
+    "locationCoords": { "type": "Point", "coordinates": [80.9462, 26.8467] },
+    "contact": "+91-522-220-1234",
+    "bloodInventory": { "A+": 7, "A-": 3, "B+": 8, "B-": 2, "AB+": 2, "AB-": 1, "O+": 10, "O-": 3 },
+    "organInventory": { "Kidney": 2, "Liver": 0, "Heart": 0, "Lungs": 0, "Pancreas": 0, "Eyes": 3 }
+  },
+  {
+    "name": "King George Hospital Vizag (Visakhapatnam)",
+    "location": "Seethammadara, Visakhapatnam, Andhra Pradesh 530013",
+    "locationCoords": { "type": "Point", "coordinates": [83.2185, 17.7200] },
+    "contact": "+91-891-275-1234",
+    "bloodInventory": { "A+": 6, "A-": 2, "B+": 7, "B-": 1, "AB+": 2, "AB-": 0, "O+": 9, "O-": 2 },
+    "organInventory": { "Kidney": 1, "Liver": 0, "Heart": 0, "Lungs": 0, "Pancreas": 0, "Eyes": 2 }
+  },
+  {
+    "name": "KMC Manipal",
+    "location": "Light House Hill Rd, Manipal, Karnataka 576104",
+    "locationCoords": { "type": "Point", "coordinates": [74.7944, 13.3566] },
+    "contact": "+91-820-292-2000",
+    "bloodInventory": { "A+": 6, "A-": 2, "B+": 7, "B-": 1, "AB+": 2, "AB-": 1, "O+": 8, "O-": 2 },
+    "organInventory": { "Kidney": 1, "Liver": 0, "Heart": 0, "Lungs": 0, "Pancreas": 0, "Eyes": 2 }
+  },
+  {
+    "name": "CMC Vellore",
+    "location": "Ida Scudder Rd, Vellore, Tamil Nadu 632004",
+    "locationCoords": { "type": "Point", "coordinates": [79.1325, 12.9203] },
+    "contact": "+91-416-228-2000",
+    "bloodInventory": { "A+": 8, "A-": 3, "B+": 9, "B-": 2, "AB+": 3, "AB-": 1, "O+": 12, "O-": 3 },
+    "organInventory": { "Kidney": 2, "Liver": 1, "Heart": 1, "Lungs": 0, "Pancreas": 0, "Eyes": 3 }
+  },
+  {
+    "name": "Ruby Hall Clinic Pune",
+    "location": "38, Sassoon Rd, Deccan Gymkhana, Pune, Maharashtra 411001",
+    "locationCoords": { "type": "Point", "coordinates": [73.8495, 18.5204] },
+    "contact": "+91-20-6621-1111",
+    "bloodInventory": { "A+": 7, "A-": 3, "B+": 8, "B-": 2, "AB+": 2, "AB-": 1, "O+": 10, "O-": 3 },
+    "organInventory": { "Kidney": 2, "Liver": 1, "Heart": 0, "Lungs": 0, "Pancreas": 0, "Eyes": 3 }
+  },
+  {
+    "name": "HCG Cancer Centre Bengaluru",
+    "location": "18th Main Rd, Koramangala 6th Block, Bengaluru, Karnataka 560095",
+    "locationCoords": { "type": "Point", "coordinates": [77.6231, 12.9330] },
+    "contact": "+91-80-4199-9999",
+    "bloodInventory": { "A+": 5, "A-": 2, "B+": 6, "B-": 1, "AB+": 1, "AB-": 0, "O+": 8, "O-": 2 },
+    "organInventory": { "Kidney": 1, "Liver": 0, "Heart": 0, "Lungs": 0, "Pancreas": 0, "Eyes": 2 }
+  },
+  {
+    "name": "VMMC & Safdarjung Hospital New Delhi",
+    "location": "Aurobindo Marg, New Delhi, Delhi 110029",
+    "locationCoords": { "type": "Point", "coordinates": [77.2100, 28.5700] },
+    "contact": "+91-11-2658-1122",
+    "bloodInventory": { "A+": 9, "A-": 4, "B+": 10, "B-": 3, "AB+": 4, "AB-": 1, "O+": 12, "O-": 4 },
+    "organInventory": { "Kidney": 2, "Liver": 1, "Heart": 1, "Lungs": 0, "Pancreas": 0, "Eyes": 4 }
+  },
+  {
+    "name": "Manipal Hospital Jaipur",
+    "location": "Gopalpura Bypass, Jaipur, Rajasthan 302018",
+    "locationCoords": { "type": "Point", "coordinates": [75.8800, 26.9000] },
+    "contact": "+91-141-398-2222",
+    "bloodInventory": { "A+": 6, "A-": 2, "B+": 7, "B-": 1, "AB+": 2, "AB-": 0, "O+": 9, "O-": 2 },
+    "organInventory": { "Kidney": 1, "Liver": 0, "Heart": 0, "Lungs": 0, "Pancreas": 0, "Eyes": 2 }
+  },
+  {
+    "name": "Global Hospitals Chennai",
+    "location": "1/3, G N Chetty Rd, T Nagar, Chennai, Tamil Nadu 600017",
+    "locationCoords": { "type": "Point", "coordinates": [80.2375, 13.0768] },
+    "contact": "+91-44-4211-1111",
+    "bloodInventory": { "A+": 8, "A-": 3, "B+": 9, "B-": 2, "AB+": 3, "AB-": 1, "O+": 12, "O-": 3 },
+    "organInventory": { "Kidney": 2, "Liver": 1, "Heart": 0, "Lungs": 0, "Pancreas": 0, "Eyes": 3 }
+  },
+  {
+    "name": "KIMS Hyderabad",
+    "location": "Secunderabad Main Rd, Hyderabad, Telangana 500003",
+    "locationCoords": { "type": "Point", "coordinates": [78.4730, 17.4500] },
+    "contact": "+91-40-2345-6789",
+    "bloodInventory": { "A+": 7, "A-": 3, "B+": 8, "B-": 2, "AB+": 2, "AB-": 1, "O+": 11, "O-": 3 },
+    "organInventory": { "Kidney": 2, "Liver": 1, "Heart": 0, "Lungs": 0, "Pancreas": 0, "Eyes": 3 }
+  },
+  {
+    "name": "Care Hospitals Visakhapatnam",
+    "location": "Daba Gardens, Visakhapatnam, Andhra Pradesh 530020",
+    "locationCoords": { "type": "Point", "coordinates": [83.3100, 17.7189] },
+    "contact": "+91-891-255-6666",
+    "bloodInventory": { "A+": 6, "A-": 2, "B+": 7, "B-": 1, "AB+": 2, "AB-": 0, "O+": 9, "O-": 2 },
+    "organInventory": { "Kidney": 1, "Liver": 0, "Heart": 0, "Lungs": 0, "Pancreas": 0, "Eyes": 2 }
+  },
+  {
+    "name": "Max Super Specialty Hospital, Saket",
+    "location": "Press Enclave Rd, Saket, New Delhi, Delhi 110017",
+    "locationCoords": { "type": "Point", "coordinates": [77.2115, 28.5245] },
+    "contact": "+91-11-2651-5050",
+    "bloodInventory": { "A+": 9, "A-": 4, "B+": 10, "B-": 3, "AB+": 4, "AB-": 1, "O+": 12, "O-": 4 },
+    "organInventory": { "Kidney": 3, "Liver": 1, "Heart": 1, "Lungs": 0, "Pancreas": 0, "Eyes": 4 }
+  },
+  {
+    "name": "Bhaskar Medical & Research Centre, Ranchi",
+    "location": "Circular Rd, Bariatu, Ranchi, Jharkhand 834009",
+    "locationCoords": { "type": "Point", "coordinates": [85.3370, 23.3450] },
+    "contact": "+91-651-223-3344",
+    "bloodInventory": { "A+": 6, "A-": 2, "B+": 7, "B-": 1, "AB+": 2, "AB-": 1, "O+": 9, "O-": 2 },
+    "organInventory": { "Kidney": 1, "Liver": 0, "Heart": 0, "Lungs": 0, "Pancreas": 0, "Eyes": 2 }
+  },
+  {
+    "name": "Sapphire Hospital, Guwahati",
+    "location": "Beltola, Guwahati, Assam 781028",
+    "locationCoords": { "type": "Point", "coordinates": [91.7775, 26.1190] },
+    "contact": "+91-361-300-7000",
+    "bloodInventory": { "A+": 7, "A-": 3, "B+": 8, "B-": 2, "AB+": 3, "AB-": 1, "O+": 10, "O-": 3 },
+    "organInventory": { "Kidney": 1, "Liver": 1, "Heart": 0, "Lungs": 0, "Pancreas": 0, "Eyes": 2 }
+  },
+  {
+    "name": "Columbia Asia Hospital, Pune",
+    "location": "Wanowrie Rd, Pune, Maharashtra 411040",
+    "locationCoords": { "type": "Point", "coordinates": [73.9120, 18.4950] },
+    "contact": "+91-20-6767-8900",
+    "bloodInventory": { "A+": 8, "A-": 3, "B+": 9, "B-": 2, "AB+": 3, "AB-": 1, "O+": 12, "O-": 3 },
+    "organInventory": { "Kidney": 2, "Liver": 1, "Heart": 1, "Lungs": 0, "Pancreas": 0, "Eyes": 3 }
+  },
+  {
+    "name": "Bombay Hospital & Medical Research Centre, Indore",
+    "location": "Ring Rd, Indore, Madhya Pradesh 452001",
+    "locationCoords": { "type": "Point", "coordinates": [75.8850, 22.7196] },
+    "contact": "+91-731-252-2233",
+    "bloodInventory": { "A+": 6, "A-": 2, "B+": 7, "B-": 1, "AB+": 2, "AB-": 1, "O+": 9, "O-": 2 },
+    "organInventory": { "Kidney": 1, "Liver": 0, "Heart": 0, "Lungs": 0, "Pancreas": 0, "Eyes": 2 }
+  },
+  {
+    "name": "Indira Gandhi Medical College, Shimla",
+    "location": "Chaura Maidan, Shimla, Himachal Pradesh 171001",
+    "locationCoords": { "type": "Point", "coordinates": [77.1695, 31.1048] },
+    "contact": "+91-177-265-2211",
+    "bloodInventory": { "A+": 5, "A-": 2, "B+": 6, "B-": 1, "AB+": 1, "AB-": 0, "O+": 7, "O-": 1 },
+    "organInventory": { "Kidney": 1, "Liver": 0, "Heart": 0, "Lungs": 0, "Pancreas": 0, "Eyes": 1 }
+  },
+  {
+    "name": "Hinduja Hospital, Mumbai",
+    "location": "Veer Savarkar Marg, Mahim, Mumbai, Maharashtra 400016",
+    "locationCoords": { "type": "Point", "coordinates": [72.8350, 19.0086] },
+    "contact": "+91-22-2445-1234",
+    "bloodInventory": { "A+": 9, "A-": 4, "B+": 10, "B-": 3, "AB+": 4, "AB-": 1, "O+": 13, "O-": 4 },
+    "organInventory": { "Kidney": 3, "Liver": 1, "Heart": 1, "Lungs": 0, "Pancreas": 0, "Eyes": 4 }
+  },
+  {
+    "name": "Kalyani Hospital, Kolkata",
+    "location": "Salt Lake Sector I, Kolkata, West Bengal 700064",
+    "locationCoords": { "type": "Point", "coordinates": [88.4365, 22.5780] },
+    "contact": "+91-33-4066-1234",
+    "bloodInventory": { "A+": 7, "A-": 3, "B+": 8, "B-": 2, "AB+": 2, "AB-": 1, "O+": 10, "O-": 3 },
+    "organInventory": { "Kidney": 2, "Liver": 0, "Heart": 0, "Lungs": 0, "Pancreas": 0, "Eyes": 3 }
+  },
+  {
+    "name": "Vijaya Hospital, Chennai",
+    "location": "No. 6, Royapettah High Rd, Chennai, Tamil Nadu 600014",
+    "locationCoords": { "type": "Point", "coordinates": [80.2700, 13.0650] },
+    "contact": "+91-44-2433-5566",
+    "bloodInventory": { "A+": 6, "A-": 2, "B+": 7, "B-": 1, "AB+": 2, "AB-": 0, "O+": 9, "O-": 2 },
+    "organInventory": { "Kidney": 1, "Liver": 0, "Heart": 0, "Lungs": 0, "Pancreas": 0, "Eyes": 2 }
+  },
+  {
+    "name": "Apollo Hospitals, Bhubaneswar",
+    "location": "BJB Nagar, Bhubaneswar, Odisha 751014",
+    "locationCoords": { "type": "Point", "coordinates": [85.8572, 20.2961] },
+    "contact": "+91-674-230-5000",
+    "bloodInventory": { "A+": 8, "A-": 3, "B+": 9, "B-": 2, "AB+": 3, "AB-": 1, "O+": 12, "O-": 3 },
+    "organInventory": { "Kidney": 2, "Liver": 1, "Heart": 1, "Lungs": 0, "Pancreas": 0, "Eyes": 3 }
+  },
+  {
+    "name": "KIMS Hospital, Trivandrum",
+    "location": "Vellayambalam, Thiruvananthapuram, Kerala 695010",
+    "locationCoords": { "type": "Point", "coordinates": [76.9360, 8.5050] },
+    "contact": "+91-471-255-6789",
+    "bloodInventory": { "A+": 7, "A-": 3, "B+": 8, "B-": 2, "AB+": 2, "AB-": 1, "O+": 10, "O-": 3 },
+    "organInventory": { "Kidney": 2, "Liver": 0, "Heart": 0, "Lungs": 0, "Pancreas": 0, "Eyes": 3 }
+  }
+]
+
